@@ -6,7 +6,8 @@
 	<h1>
 		<center>FUZZY LOGIC</center>
 	</h1><br>
-	<font size="5">Selamat Datang di Aplikasi simulasi Logika Fuzzy. Aplikasi ini berfungsi untuk menghitung hasil produksi kemasan di suatu perusahaan menggunakan metode Fuzzy Mamdani Untuk mendapatkan hasil yang akurat</font><br><br><br><br>
+	<font size="5">Selamat Datang di Aplikasi simulasi Logika Fuzzy. Aplikasi ini berfungsi untuk menghitung hasil produksi kemasan di suatu perusahaan menggunakan metode Fuzzy Mamdani Untuk mendapatkan hasil yang akurat</font><br><br>
+	<font size="5"><strong>Built By : M.Harits Rasyid (15-2017-118), Farhan Adani (15-2017-120), Amanaf Paslah (15-2017-125)</strong></font><br><br><br><br>
 	<p><center>
 		<img src="_assets/img/fuzzy.png" width="400" height="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<!-- <a href="info_fuzzy.php" class="btn btn-primary " style="margin-right: 500px;">Learn Fuzzy</a> -->
