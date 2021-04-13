@@ -365,7 +365,7 @@ while ($pecah = $ambildata->fetch_assoc());
                                                                 </thead>
                                                                 <tbody>
                                                                     <tr>
-                                                                        <td><center><?php echo $centroid1 = rand($_POST['bap'], $_POST['bbp']) ?></td>
+                                                                        <td><center><?php echo $centroid1 =rand($_POST['bap'], $_POST['bbp']) ?></td>
                                                                         <td><center><?php echo $centroid2 =rand($_POST['bap'], $_POST['bbp']) ?></td>
                                                                     </tr>
                                                                     <tr>
