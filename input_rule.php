@@ -96,7 +96,7 @@ require 'koneksi.php';
                     <td><?php echo $pecah['param2_name']; ?></td>
                     <td><?php echo $pecah['param2_value']; ?></td>
                     <td><?php echo $pecah['param3_name']; ?></td>
-                    <td><?php echo $pecah['outputt']; ?></td>
+                    <td><?php echo $pecah['output']; ?></td>
                     <td><a href="hapusrule.php?id_rule=<?php echo $pecah['id_rule']; ?>" class="btn btn-warning">Hapus Rule</a></td>
                 </tr>
             <?php } ?>
